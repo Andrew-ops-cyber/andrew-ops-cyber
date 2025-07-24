@@ -60,4 +60,4 @@ Welcome to my GitHub! I’m an 8-year Marine Corps veteran and firefighter param
 
 ---
 
-![Andrew Ramirez Cybersecurity](https://user-images.githubusercontent.com/your-image-if-you-want.png)
+
