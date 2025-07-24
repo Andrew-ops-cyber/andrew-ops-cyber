@@ -24,8 +24,7 @@ Welcome to my GitHub! I’m an 8-year Marine Corps veteran and firefighter param
 - **TryHackMe Virtual Machines**  
   - Hands-on labs for cyber kill chain, attack simulation, and Wireshark fundamentals
 - **Incident Response & SOC Operations**
-- **Other Tools:**  
-  - [List any additional tools or platforms you use]
+
 
 ---
 
