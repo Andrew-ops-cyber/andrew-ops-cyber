@@ -31,7 +31,7 @@ Welcome to my GitHub! I’m an 8-year Marine Corps veteran and firefighter param
 ### 🏆 Projects & Learning
 
 - **TryHackMe Labs:**  
-  - Exploring real-world attack scenarios using virtual machines to master cybersecurity fundamentals.
+  - Exploring real-world attack scenarios using virtual machines to master cybersecurity fundamentals. https://github.com/Andrew-ops-cyber/try-Hack-Me-Labs/blob/main/TryHackMe-Rooms-Offensive-Defensive-Portfolio_Version5.md
 - **Wireshark Analysis:**  
   - Deep dives into network packet analysis, threat identification, and protocol forensics. https://github.com/Andrew-ops-cyber/kalilinux-wireshark-vm/blob/main/Kali-Linux-Wireshark-VM_Version2.md
 
