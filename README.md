@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrew Ramirez
 
-<!--
-**Andrew-ops-cyber/andrew-ops-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cybersecurity Analyst | Transitioning Veteran
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m an 8-year Marine Corps veteran and firefighter paramedic, now channeling my dedication for service and problem-solving into the field of cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- **Profession:** Cybersecurity Analyst
+- **Certifications:**  
+  - CompTIA Security+  
+  - Google Cybersecurity Certificate
+- **Transitioning From:** Marine Corps & Firefighter Paramedic (8 years of service)
+
+---
+
+### 🧰 Top Skills & Tools
+
+- **SIEM Solutions** (Security Information and Event Management)
+- **Wireshark** (Network Analysis)
+- **Threat Intelligence Feeds**
+- **TryHackMe Virtual Machines**  
+  - Hands-on labs for cyber kill chain, attack simulation, and Wireshark fundamentals
+- **Incident Response & SOC Operations**
+- **Other Tools:**  
+  - [List any additional tools or platforms you use]
+
+---
+
+### 🏆 Projects & Learning
+
+- **TryHackMe Labs:**  
+  - Exploring real-world attack scenarios using virtual machines to master cybersecurity fundamentals.
+- **Wireshark Analysis:**  
+  - Deep dives into network packet analysis, threat identification, and protocol forensics.
+
+---
+
+### 🎖️ Achievements
+
+- **Certifications:**  
+  - CompTIA Security+  
+  - Google Cybersecurity Certificate
+- **Veteran:**  
+  - 8 years, U.S. Marine Corps
+- **First Responder:**  
+  - Firefighter Paramedic
+
+---
+
+### 📫 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/ramirez-andrew](https://www.linkedin.com/in/ramirez-andrew)
+
+---
+
+> “Adapt. Overcome. Secure.”  
+> Driven by service, now focused on securing digital frontlines.
+
+---
+
+![Andrew Ramirez Cybersecurity](https://user-images.githubusercontent.com/your-image-if-you-want.png)
